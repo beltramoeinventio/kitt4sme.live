@@ -6,7 +6,7 @@ metadata:
 spec:
   project: mesh-infra
   source:
-    repoURL: https://github.com/c0c0n3/kitt4sme.live
+    repoURL: https://github.com/beltramoeinventio/kitt4sme.live
     targetRevision: open-calls
     path: deployment/mesh-infra/app
   destination:
